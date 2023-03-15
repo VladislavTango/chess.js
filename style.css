@@ -1,0 +1,22 @@
+.main-block{
+    width: 560px;
+    height: 560px;
+    margin: 30px auto;
+    border: 10px  black;
+}
+.block{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+.black{
+    background: black;
+}
+.white{
+    background: white;
+}
+.hod{
+    width:40px;
+    height:40px;
+    margin: auto;
+}
